@@ -1,6 +1,6 @@
 ### Desafio 1 - Consulta em SQL
 
-Perguntas que precisam ser respondidas:
+Perguntas que precisam ser respondidas:  
 ● 1 - Valor total das vendas e dos fretes por produto e ordem de venda;  
 ● 2 - Valor de venda por tipo de produto;  
 ● 3 - Quantidade e valor das vendas por dia, mês, ano;  
@@ -10,4 +10,4 @@ Perguntas que precisam ser respondidas:
 ● 7 - Média de produtos vendidos;  
 ● 8 - Média de compras que um cliente faz;  
 ● 9 - Lucros por Categorias;  
-● 10 - TOP 3 países mais lucrativos.
+● 10 - TOP 3 países mais lucrativos.  
